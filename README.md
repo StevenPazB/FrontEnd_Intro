@@ -1,2 +1,6 @@
 # FrontEnd_Intro
-Understanding basics
+>Understanding requirements
+
+>Building "Buyer persona" and target audience
+
+>Understanding UI/UX
